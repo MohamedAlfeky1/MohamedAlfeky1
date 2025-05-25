@@ -1,44 +1,89 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-<h3 align="center">
-  Welcome to Mohamed Alfeky's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<!--
+**Note:** Copy this into your GitHub profile repo (username/username).
+-->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
-
-### Here are some areas where I channel my passion  :
-- Responsive Design: Elevating Experiences Across Devices
-- Performance Optimization: Accelerating the Digital Experience
-- Best Practice.
-- API Integration: Connecting frontend with backend services for dynamic content.
-
-<br><br>
-
-### Where to find me :
-[![Facebook](https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092058625292)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAlfeky1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-alfeky-544274292)
-[![Upwork](https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ac9a22f93da121df)
-
-### &nbsp;Tech Stack :
-<code><img height="35" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="35" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="35" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="35" alt="Redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="35" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-
-<br><br>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=MohamedAlfeky1&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=MohamedAlfeky1&style=for-the-badge" alt="profile views">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2ABC9C&width=600&lines=👋+Hello+there!+I'm+Mohamed+Alfeky;💻+Front-End+Developer;🔥+React+%26+Next.js+Enthusiast" alt="Typing SVG"/>
 </p>
+
+---
+
+## 👋 About Me
+
+Hello! I’m **Mohamed Alfeky**, a Front-End Developer based in Benha, Egypt.  
+I build responsive, user-focused web apps with clean code and pixel-perfect design.  
+When I’m not coding, you’ll find me optimizing performance, exploring new JS frameworks, or sharing dev tips on LinkedIn.
+
+- 🎓 **Education:** B.Sc. in Agriculture (GPA: 3.36), Benha University  
+- 📍 **Location:** Benha, Egypt  
+- ✉️ **Email:** [mo.alfeky.dev@gmail.com](mailto:mo.alfeky.dev@gmail.com)  
+- 🔗 **Portfolio:** [mohamed-alfeky.vercel.app](https://mohamed-alfeky.vercel.app)  
+
+---
+
+## 🛠️ Skills
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAlfeky1&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+  <!-- Tech Stack Badges via shields.io -->
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
+---
+
+## 📂 Projects
+
+| Project                          | Tech Stack                               | Highlights                                                  |
+|----------------------------------|------------------------------------------|-------------------------------------------------------------|
+| **TypeScript E-Commerce CRUD**  
+[🔗 Repo](https://github.com/MohamedAlfeky1/ts-ecommerce) | React · TypeScript · Tailwind · Headless UI | • Reusable components (−35% duplication)  
+• Strict typing (−45% runtime errors)|
+| **Nike E-Commerce App**  
+[🔗 Repo](https://github.com/MohamedAlfeky1/nike-ecommerce) | Next.js · MongoDB · SSR/CSR · CSS Modules | • Custom REST API CRUD  
+• Debounced search (faster queries)  
+• Load times ↓ 40% |
+| **E-commerce Application**  
+[🔗 Repo](https://github.com/MohamedAlfeky1/react-redux-shop) | React · Redux · Bootstrap | • Auth & role-based access  
+• Admin panel & advanced filters (↑25% efficiency)|
+| **Responsive Dashboard**  
+[🔗 Demo](https://mohamed-alfeky.vercel.app/dashboard) | HTML5 · CSS3 · JavaScript | • Dark mode + SEO optimizations  
+• Custom CSS framework |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <!-- GitHub Readme Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAlfeky1&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlfeky1&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:mo.alfeky.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/mohamed-alfeky" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MohamedAlfeky1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+> “Clean code always looks like it was written by someone who cares.”  
+> &mdash; *Michael Feathers*
 
