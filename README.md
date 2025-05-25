@@ -37,32 +37,10 @@ When I’m not coding, you’ll find me optimizing performance, exploring new JS
 
 ---
 
-## 📂 Projects
-
-| Project                          | Tech Stack                               | Highlights                                                  |
-|----------------------------------|------------------------------------------|-------------------------------------------------------------|
-| **TypeScript E-Commerce CRUD**  
-[🔗 Repo](https://github.com/MohamedAlfeky1/ts-ecommerce) | React · TypeScript · Tailwind · Headless UI | • Reusable components (−35% duplication)  
-• Strict typing (−45% runtime errors)|
-| **Nike E-Commerce App**  
-[🔗 Repo](https://github.com/MohamedAlfeky1/nike-ecommerce) | Next.js · MongoDB · SSR/CSR · CSS Modules | • Custom REST API CRUD  
-• Debounced search (faster queries)  
-• Load times ↓ 40% |
-| **E-commerce Application**  
-[🔗 Repo](https://github.com/MohamedAlfeky1/react-redux-shop) | React · Redux · Bootstrap | • Auth & role-based access  
-• Admin panel & advanced filters (↑25% efficiency)|
-| **Responsive Dashboard**  
-[🔗 Demo](https://mohamed-alfeky.vercel.app/dashboard) | HTML5 · CSS3 · JavaScript | • Dark mode + SEO optimizations  
-• Custom CSS framework |
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
   <!-- GitHub Readme Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAlfeky1&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlfeky1&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </div>
 
