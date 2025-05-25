@@ -53,9 +53,6 @@ When I’m not coding, you’ll find me optimizing performance, exploring new JS
   <a href="https://linkedin.com/in/mohamed-alfeky" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/MohamedAlfeky1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
