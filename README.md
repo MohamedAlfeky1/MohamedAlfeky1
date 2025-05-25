@@ -35,15 +35,6 @@ When I’m not coding, you’ll find me optimizing performance, exploring new JS
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <!-- GitHub Readme Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlfeky1&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 📫 Contact Me
 
 <p align="center">
@@ -56,6 +47,14 @@ When I’m not coding, you’ll find me optimizing performance, exploring new JS
 </p>
 
 ---
+
+<div align="center">
+  <!-- GitHub Readme Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlfeky1&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
 
 > “Clean code always looks like it was written by someone who cares.”  
 > &mdash; *Michael Feathers*
