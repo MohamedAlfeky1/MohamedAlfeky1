@@ -10,12 +10,10 @@
 
 ## 👋 About Me
 
-Hello! I’m **Mohamed Alfeky**, a Front-End Developer based in Benha, Egypt.  
+Hello! I’m **Mohamed Alfeky**, a Front-End Developer.  
 I build responsive, user-focused web apps with clean code and pixel-perfect design.  
 When I’m not coding, you’ll find me optimizing performance, exploring new JS frameworks, or sharing dev tips on LinkedIn.
 
-- 🎓 **Education:** B.Sc. in Agriculture (GPA: 3.36), Benha University  
-- 📍 **Location:** Benha, Egypt  
 - ✉️ **Email:** [mo.alfeky.dev@gmail.com](mailto:mo.alfeky.dev@gmail.com)  
 - 🔗 **Portfolio:** [mohamed-alfeky.vercel.app](https://mohamed-alfeky.vercel.app)  
 
